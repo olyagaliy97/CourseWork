@@ -1,0 +1,3 @@
+C:\Users\Usver\Documents\GitHub\CourseWork\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.exe.config
+C:\Users\Usver\Documents\GitHub\CourseWork\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.exe
+C:\Users\Usver\Documents\GitHub\CourseWork\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.pdb
